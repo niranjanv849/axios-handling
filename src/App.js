@@ -5,7 +5,7 @@ function App() {
     <div className="app">
       <div className="container">
         <div className="text-center">
-          <h1 className="display-4 text-center mb-3">Axios Crash Course</h1>
+          <h1 className="display-4 text-center mb-3">Mastering Axios!</h1>
           <button className="btn btn-primary my-3" id="get">
             GET
           </button>
