@@ -3,3 +3,8 @@ button {
   margin-left: 10px;
   margin-right: 10px;
 }
+
+#results {
+  display: flex;
+  flex-wrap: wrap;
+}

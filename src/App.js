@@ -1,5 +1,5 @@
 import "./App.css";
-
+import Result from "./Result";
 function App() {
   return (
     <div className="app">
@@ -35,7 +35,9 @@ function App() {
           </button>
         </div>
         <hr />
-        <div id="res"></div>
+        <div id="results">
+          <Result />
+        </div>
       </div>
     </div>
   );
